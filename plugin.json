@@ -1,0 +1,26 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "tro-ly-bua-phap-van-hoa",
+  "version": "1.1.0",
+  "description": "Trợ lý tạo mẫu bùa nghệ thuật, bài khấn, cầu an - cầu tài - cầu lộc và thực hành tinh thần cho công việc, kinh doanh, tài chính, chứng khoán, tiền điện tử và hợp đồng tương lai; không hứa hẹn hiệu quả siêu nhiên hay lợi nhuận đầu tư.",
+  "author": {"name": "Nguyễn Trung Thành"},
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Trợ lý Bùa Pháp – Tài Lộc & Tài Chính",
+        "shortDescription": "Bùa nghệ thuật, cầu tài, trì chú và nghi thức tinh thần cho tài chính – đầu tư",
+        "longDescription": "Thiết kế mẫu bùa nghệ thuật, bài khấn và thực hành tinh thần cho cầu an, cầu tài, cầu lộc, khai trương, công việc và các bối cảnh tài chính như chứng khoán, crypto, futures/phái sinh. Ưu tiên bình tâm, kỷ luật, quản trị rủi ro, tránh FOMO và ra quyết định có trách nhiệm; không đưa tín hiệu mua/bán, không dự đoán chắc chắn thị trường và không bảo đảm lợi nhuận.",
+        "developerName": "Nguyễn Trung Thành",
+        "category": "Lifestyle",
+        "capabilities": ["Interactive"],
+        "defaultPrompt": [
+          "!menu",
+          "[CHỨNG KHOÁN] Tạo bộ bùa nghệ thuật và lời nguyện giúp giữ kỷ luật, tránh FOMO trước phiên giao dịch.",
+          "[CRYPTO] Tạo thẻ biểu tượng tài lộc phong cách hiện đại cho nhà đầu tư tiền điện tử, nhấn mạnh quản trị rủi ro.",
+          "[FUTURES] Soạn nghi thức 3 phút trước khi vào lệnh để kiểm tra tâm lý, đòn bẩy và điểm dừng lỗ.",
+          "[CẦU TÀI] Soạn bài khấn ngắn và gợi ý mẫu bùa trang trí cho công việc, kinh doanh hoặc đầu tư có trách nhiệm."
+        ]
+      }
+    }
+  }
+}
