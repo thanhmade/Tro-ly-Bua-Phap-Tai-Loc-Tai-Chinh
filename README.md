@@ -1,3 +1,5 @@
+![Banner Trợ lý Bùa Pháp – Tài Lộc & Tài Chính](assets/readme-banner.svg)
+
 # Trợ lý Bùa Pháp – Tài Lộc & Tài Chính
 
 **Phiên bản:** 1.1.0  
@@ -6,7 +8,18 @@
 
 Plugin trợ lý tiếng Việt hỗ trợ thiết kế mẫu bùa nghệ thuật, soạn lời nguyện và bài khấn, thực hành tinh thần cho cầu an, cầu tài, cầu lộc, công việc và gia đạo. Các nội dung tài chính hướng đến bình tâm, giữ kỷ luật và phản tư trước quyết định.
 
+---
+
+**Khám phá nhanh:** [Chức năng](#chức-năng) · [Bắt đầu](#bắt-đầu-sử-dụng) · [Lệnh sử dụng](#lệnh-sử-dụng) · [Thư viện mẫu](#thư-viện-mẫu) · [Mã nguồn](#cấu-trúc-dự-án)
+
 ## Chức năng
+
+| ✦ Thiết kế & văn hóa | ✦ Lời nguyện & nghi thức | ✦ Tài chính & kỷ luật |
+|---|---|---|
+| Mẫu bùa, thẻ biểu tượng, bố cục và họa tiết | Cầu an, cầu tài, cầu lộc, bài khấn và trì niệm | Thẻ trước phiên, checklist và nhật ký cảm xúc |
+| Phong cách dân gian Việt đến tối giản hiện đại | Giữ văn bản nguồn và truyền thống được chọn | Bình tâm, sáng suốt và tuân thủ kế hoạch |
+
+
 
 - **Thiết kế bùa và thẻ biểu tượng:** từ mô tả hoặc ảnh tham chiếu; lựa chọn màu sắc, chất liệu, họa tiết và bố cục.
 - **Cầu an, cầu tài, cầu lộc:** trình bày ý nghĩa biểu tượng, soạn lời nguyện hoặc bài khấn và gợi ý mẫu thiết kế.
@@ -81,6 +94,11 @@ Khi chưa chọn phong cách, plugin mặc định dùng **Dân gian Việt – 
 
 ## Thư viện mẫu
 
+![Ba thẻ minh họa: Bình An Việt, Tài Lộc Khai Trương và Kỷ Luật Tài Chính](assets/design-gallery.svg)
+
+*Bộ đồ họa minh họa sáng tạo cho README. Các thiết kế được lấy cảm hứng từ mô tả trong thư viện mẫu; không đại diện cho phù chú truyền thống đã được xác minh.*
+
+
 Tệp [mau-thiet-ke.md](skills/bua-phap/references/mau-thiet-ke.md) gồm 11 mẫu:
 
 | Mẫu | Tên |
@@ -108,6 +126,8 @@ Tài liệu cũng có mẫu prompt thiết kế thẻ tài chính và lời nguy
 | [skills/bua-phap/SKILL.md](skills/bua-phap/SKILL.md) | Hướng dẫn hoạt động, menu, quy trình và các module |
 | [skills/bua-phap/references/mau-thiet-ke.md](skills/bua-phap/references/mau-thiet-ke.md) | Thư viện mẫu, prompt và lời nguyện |
 | [README.md](README.md) | Giới thiệu và hướng dẫn sử dụng |
+| [assets/readme-banner.svg](assets/readme-banner.svg) | Banner đỏ son–vàng kim, họa tiết mây và hồi văn |
+| [assets/design-gallery.svg](assets/design-gallery.svg) | Bộ ba thẻ minh họa Bình An, Tài Lộc và Kỷ Luật Tài Chính |
 
 ## Tải và sử dụng mã nguồn
 
@@ -132,3 +152,7 @@ Kho này chứa manifest và hướng dẫn dạng văn bản, không có ứng 
 ## Giấy phép
 
 Kho hiện chưa có tệp `LICENSE`. Việc công khai mã nguồn không đồng nghĩa với cấp quyền sử dụng, sửa đổi hoặc phân phối theo một giấy phép mã nguồn mở cụ thể.
+
+---
+
+<p align="center"><strong>✦ TĨNH TÂM · SÁNG SUỐT · KỶ LUẬT ✦</strong><br><sub>Trợ lý Bùa Pháp – Tài Lộc &amp; Tài Chính · Nguyễn Trung Thành</sub></p>
